@@ -1,0 +1,1 @@
+package os.zbwlkj.com.os.Act;import android.os.Bundle;import os.zbwlkj.com.os.Class.act_class;/** * 登录界面 */public class Act_login extends act_class {    @Override    protected void onCreate(Bundle savedInstanceState) {        super.onCreate(savedInstanceState);    }}

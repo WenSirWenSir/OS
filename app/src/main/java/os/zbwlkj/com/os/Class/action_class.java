@@ -1,0 +1,1 @@
+package os.zbwlkj.com.os.Class;public class action_class {    /**     * 动画的ACTION     */    public static class TRANSITION {        public final static int EXPLODE = 0;        public final static int SLIDE = 1;        public final static int FADE = 2;    }}
